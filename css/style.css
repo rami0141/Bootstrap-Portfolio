@@ -24,18 +24,29 @@ h3 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
+.text-white:hover {
+	 font-family: 'Comfortaa', cursive;
+	 text-decoration: none;
+}
+.box:hover
+{
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+}
+
 
 
 .placeholder {
-	width: 18rem;
+	width: 19rem;
 	height:14rem;
 
 }
 
 .icons {
-	width: 70px;
-	height: 70px;
-	padding: 8px;
+	width: 100px;
+	height: 90px;
+	padding: 12px;
 	align-items: center;
 }
 
