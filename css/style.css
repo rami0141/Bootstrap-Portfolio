@@ -182,15 +182,15 @@ footer {
 
 .content{
     max-width: 300px;
-    padding: 20px; 
-    margin-left:-30px; 
+    padding: 20px;  
+    margin-right: 20px; 
     float: left;
    
 }
 
 .me {
 	width: 300px;
-	margin-left:-30px; 
+	margin-right: 20px; 
 	padding: 2px;
 }
 
@@ -225,7 +225,7 @@ footer {
 	float: right;
 	width: 330px;
 	margin-top: -40px;
-	margin-left:-30px; 
+	margin-right: 20px;
 	margin-bottom:40px;
 
 }
