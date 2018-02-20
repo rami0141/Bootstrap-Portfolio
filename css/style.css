@@ -35,7 +35,9 @@ h3 {
         transform: scale(1.1);
 }
 
-
+.me {
+	width: 45rem;
+}
 
 .placeholder {
 	width: 19rem;
@@ -62,4 +64,145 @@ footer {
  	background: #666666;	
  	bottom: 0;
  	border-top: 8px solid #00b8d4;
+}
+
+
+
+/* Media Queries */
+/* 980px */
+
+@media only screen and (max-width: 980px) {
+
+
+nav {
+  margin-right:0px;
+}
+
+.content{
+    max-width: 900px;
+    padding: 20px; 
+    margin-left:-32px; 
+    float: left;
+   
+}
+
+.sidebar {
+	float: right;
+	margin-top: -40px;
+	margin-left: 0px;
+	margin-right: 50px;
+	margin-bottom:40px;
+
+}
+
+}
+
+
+/* 768px */
+
+@media only screen and (max-width: 768px) {
+
+  nav {
+  margin-right:1px;
+}
+
+.navbar-brand {
+	margin-left: 15px;
+}
+
+.content{
+    max-width: 650px;
+    padding: 20px; 
+    margin-left:20px; 
+    float: left;
+   
+}
+
+.me {
+	width: 650px;
+	margin-left: 20px;
+	padding: 10px;
+}
+
+.placeholder {
+	width:250px;
+	height: 230px;
+	margin: 5px;
+}
+
+.place2 {
+	margin-left: 26px;
+}
+
+
+.card-img-overlay {
+	width: 266px;
+	margin: 5px;
+
+}
+
+.sidebar {
+	float: right;
+	margin-top: -40px;
+	margin-left: -25px;
+	margin-right: 50px;
+	margin-bottom:40px;
+
+}
+
+}
+
+
+/* 640px */
+@media only screen and (max-width: 640px) {
+
+  nav {
+  margin-right:1px;
+}
+
+.navbar-brand {
+	margin-left: -25px;
+}
+
+.content{
+    max-width: 565px;
+    padding: 20px; 
+    margin-left:-25px; 
+    float: left;
+   
+}
+
+.me {
+	width: 565px;
+	margin-left: -25px;
+	padding: 10px;
+}
+
+.placeholder {
+	width:450px;
+	height: 310px;
+	margin: 10px;
+	
+}
+
+.place2 {
+	margin-left: 30px;
+}
+
+
+.card-img-overlay {
+	width: 466px;
+	margin: 10px;
+
+}
+
+.sidebar {
+	float: right;
+	margin-top: -40px;
+	margin-left: 20px;
+	margin-right: 50px;
+	margin-bottom:40px;
+
+}
+
 }
