@@ -189,14 +189,14 @@ footer {
     max-width: 100%;
     padding: 20px; 
     float: left;
-    margin-left: 0px;
+    margin-left: -15px;
    
 }
 
 .me {
 	width: 100%;
 	padding: 2px;
-	margin-left: 0px;
+	margin-left: -15px;
 }
 
 .placeholder {
@@ -227,7 +227,7 @@ footer {
 }
 
 .sidebar {
-	margin-left: 0px;
+	margin-left: -15px;
 	width: 100%;
 	margin-top: -40px;
 	margin-bottom:40px;
