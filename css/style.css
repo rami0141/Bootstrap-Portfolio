@@ -166,7 +166,7 @@ footer {
 }
 
 
-/* 640px */
+/* 576px */
 @media only screen and (max-width: 576px) {
 #navbar-example2 {
 		width: 100%;
@@ -227,6 +227,7 @@ footer {
 	
 	width: 330px;
 	margin-top: -40px;
+	margin-left: -5px;
 	margin-right: 10px;
 	margin-bottom:40px;
 
