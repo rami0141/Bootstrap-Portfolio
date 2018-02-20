@@ -185,15 +185,13 @@ footer {
 .content{
     max-width: 300px;
     padding: 20px;  
-    margin-right: 20px; 
     float: left;
    
 }
 
 .me {
 	width: 300px;
-	margin-left: -25px;
-	margin-right: 20px; 
+	margin-left: 20px;
 	padding: 2px;
 }
 
@@ -228,8 +226,7 @@ footer {
 	
 	width: 250px;
 	margin-top: -40px;
-	margin-left: -5px;
-	margin-right: 10px;
+	margin-left: 20px;
 	margin-bottom:40px;
 	padding: 2px;
 
