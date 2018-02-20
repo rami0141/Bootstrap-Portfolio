@@ -163,6 +163,10 @@ footer {
 
 /* 640px */
 @media only screen and (max-width: 640px) {
+#navbar-example2 {
+		width: 100%;
+	}
+	
 .title {
 	text-align: center;
 }
