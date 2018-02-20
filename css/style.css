@@ -42,7 +42,9 @@ h3 {
 }
 
 .sidebar {
-	width: 20rem;
+	width: 18rem;
+	float:left;
+	margin-bottom: 40px;
 }
 
 .me {
@@ -56,9 +58,10 @@ h3 {
 }
 
 .icons {
-	width: 100px;
+	width: 90px;
 	height: 90px;
-	padding: 12px;
+	padding: 8px;
+	margin-left: 10px;
 	align-items: center;
 }
 
@@ -97,9 +100,9 @@ nav {
 }
 
 .sidebar {
-	float: right;
+	float: left;
 	margin-top: -40px;
-	margin-left: 0px;
+	margin-left: 5px;
 	margin-right: 50px;
 	margin-bottom:40px;
 
@@ -152,9 +155,9 @@ nav {
 }
 
 .sidebar {
-	float: right;
+	float: left;
 	margin-top: -40px;
-	margin-left: -25px;
+	margin-left: 15px;
 	margin-right: 50px;
 	margin-bottom:40px;
 
@@ -232,7 +235,7 @@ footer {
 	margin-top: -40px;
 	margin-bottom:40px;
 	padding: 2px;
-	margin-left: 95px;
+	margin-left: 145px;
 
 }
 
