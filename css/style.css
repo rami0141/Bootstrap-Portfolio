@@ -35,6 +35,11 @@ h3 {
         transform: scale(1.1);
 }
 
+.cristina {
+	width:220px; 
+	height: 240px;
+}
+
 .me {
 	width: 45rem;
 }
@@ -158,14 +163,9 @@ footer {
 
 /* 640px */
 @media only screen and (max-width: 640px) {
-
 .title {
-	width: 100%;
 	text-align: center;
-	margin: 0;
 }
-
-
 
 .navbar-brand {
 	width: 100%;
@@ -181,25 +181,30 @@ footer {
 }
 
 .me {
-	width: 500px;
-	margin-left: -4px;
+	width: 420px;
+	margin-left: 30px;
 	padding: 10px;
 }
 
 .placeholder {
-	width:400px;
+	width:320px;
 	height: 310px;
 	margin: 5px;
 	
 }
 
+.cristina {
+	width:180px;
+	height: 180px;
+}
+
 .place2 {
-	margin-left: 30px;
+	margin-left: 15px;
 }
 
 
 .card-img-overlay {
-	width: 416px;
+	width: 336px;
 	margin: 5px;
 
 }
@@ -207,7 +212,7 @@ footer {
 .sidebar {
 	float: right;
 	margin-top: -40px;
-	margin-left: 5px;
+	margin-left: 38px;
 	margin-right: 50px;
 	margin-bottom:40px;
 
