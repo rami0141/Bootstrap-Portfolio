@@ -186,17 +186,17 @@ footer {
 }
 
 .content{
-    max-width: 310px;
+    max-width: 100%;
     padding: 20px; 
-    margin-left: 60px; 
     float: left;
+    margin-left: 0px;
    
 }
 
 .me {
-	width: 300px;
-	margin-left: 60px;
+	width: 100%;
 	padding: 2px;
+	margin-left: 0px;
 }
 
 .placeholder {
@@ -211,8 +211,8 @@ footer {
 }
 
 .cristina {
-	width:100px;
-	height: 100px;
+	width:150px;
+	height: 150px;
 }
 
 .place2 {
@@ -227,10 +227,9 @@ footer {
 }
 
 .sidebar {
-	
-	width: 330px;
+	margin-left: 0px;
+	width: 100%;
 	margin-top: -40px;
-	margin-left: 60px;
 	margin-bottom:40px;
 	padding: 2px;
 
